@@ -6,6 +6,7 @@
 -->
 
 <!-- PROJECT SHIELDS -->
+![Optional Text](../master/src/assets/nu-1.jpeg)
 
 [![npm](https://img.shields.io/npm/v/react-native-template-rocketseat-basic.svg?label=npm%20package)](https://www.npmjs.com/package/react-native-template-rocketseat-basic)
 [![npm](https://img.shields.io/npm/dt/react-native-template-rocketseat-basic.svg)](https://www.npmjs.com/package/react-native-template-rocketseat-basic)
